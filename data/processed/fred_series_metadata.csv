@@ -1,0 +1,15 @@
+series_id,title,description_used,units,frequency,fred_observation_start,fred_observation_end,last_updated,n_obs_retrieved,first_obs_retrieved,last_obs_retrieved
+DGS2,"Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis",2Y Treasury CMT yield (%),Percent,Daily,1976-06-01,2026-11-10,2026-11-12 15:16:31-06,2215,2018-01-02,2026-11-10
+DGS5,"Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis",5Y Treasury CMT yield (%),Percent,Daily,1962-01-02,2026-11-10,2026-11-12 15:16:36-06,2215,2018-01-02,2026-11-10
+DGS10,"Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis",10Y Treasury CMT yield (%),Percent,Daily,1962-01-02,2026-11-10,2026-11-12 15:16:39-06,2215,2018-01-02,2026-11-10
+DGS30,"Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis",30Y Treasury CMT yield (%),Percent,Daily,1977-02-15,2026-11-10,2026-11-12 15:16:36-06,2215,2018-01-02,2026-11-10
+BAMLC0A0CM,ICE BofA US Corporate Index Option-Adjusted Spread,ICE BofA US Corporate (IG) OAS (%),Percent,"Daily, Close",2023-11-13,2026-11-11,2026-11-12 07:51:28-06,784,2023-11-13,2026-11-11
+BAMLC0A4CBBB,ICE BofA BBB US Corporate Index Option-Adjusted Spread,ICE BofA BBB US Corporate OAS (%),Percent,"Daily, Close",2023-11-13,2026-11-11,2026-11-12 07:51:43-06,785,2023-11-13,2026-11-11
+BAMLC0A3CA,ICE BofA Single-A US Corporate Index Option-Adjusted Spread,ICE BofA Single-A US Corporate OAS (%),Percent,"Daily, Close",2023-11-13,2026-11-11,2026-11-12 07:51:39-06,785,2023-11-13,2026-11-11
+BAMLC0A2CAA,ICE BofA AA US Corporate Index Option-Adjusted Spread,ICE BofA AA US Corporate OAS (%),Percent,"Daily, Close",2023-11-13,2026-11-11,2026-11-12 07:51:35-06,785,2023-11-13,2026-11-11
+BAMLC0A0CMEY,ICE BofA US Corporate Index Effective Yield,ICE BofA US Corporate effective yield (%),Percent,"Daily, Close",2023-11-13,2026-11-11,2026-11-12 07:51:29-06,784,2023-11-13,2026-11-11
+BAMLH0A0HYM2,ICE BofA US High Yield Index Option-Adjusted Spread,ICE BofA US High Yield OAS (%),Percent,"Daily, Close",2023-11-13,2026-11-11,2026-11-12 07:51:42-06,785,2023-11-13,2026-11-11
+NFCI,Chicago Fed National Financial Conditions Index,"Chicago Fed NFCI (index, weekly)",Index,"Weekly, Ending Friday",1971-01-08,2026-11-06,2026-11-12 07:36:36-06,462,2018-01-05,2026-11-06
+BAA10Y,Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,Moody's seasoned Baa yield minus 10Y CMT (%),Percent,Daily,1986-01-02,2026-11-10,2026-11-12 16:03:34-06,2211,2018-01-02,2026-11-10
+AAA10Y,Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,Moody's seasoned Aaa yield minus 10Y CMT (%),Percent,Daily,1983-01-03,2026-11-10,2026-11-12 16:03:32-06,2211,2018-01-02,2026-11-10
+DFF,Federal Funds Effective Rate,Effective federal funds rate (%),Percent,"Daily, 7-Day",1954-07-01,2026-11-11,2026-11-12 15:16:33-06,3237,2018-01-01,2026-11-11

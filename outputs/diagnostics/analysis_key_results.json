@@ -1,0 +1,95 @@
+{
+  "post_fye_issuance_by_maturity_bn": {
+    "2027-29": 38.08,
+    "2030-33": 74.67,
+    "2034-45": 64.83,
+    "2046+": 80.17
+  },
+  "tenor_by_period": {
+    "2020-24": {
+      "pw_tenor": 17.609848484848484,
+      "median_tenor": 10.0,
+      "share_over_25y": 0.36742424242424243,
+      "usd_bn": 132.0
+    },
+    "2025-26": {
+      "pw_tenor": 16.43880099916736,
+      "median_tenor": 10.0,
+      "share_over_25y": 0.30308076602830974,
+      "usd_bn": 300.25
+    }
+  },
+  "fred_points": {
+    "2023-12-29": {
+      "DGS10": 3.88,
+      "DGS30": 4.03,
+      "BAMLC0A0CM": 104.0,
+      "BAMLC0A2CAA": 55.0,
+      "BAMLC0A3CA": 88.0,
+      "BAMLC0A4CBBB": 129.0,
+      "BAA10Y": 161.0
+    },
+    "2024-12-31": {
+      "DGS10": 4.58,
+      "DGS30": 4.78,
+      "BAMLC0A0CM": 82.0,
+      "BAMLC0A2CAA": 48.0,
+      "BAMLC0A3CA": 69.0,
+      "BAMLC0A4CBBB": 102.0,
+      "BAA10Y": 142.0
+    },
+    "2025-09-30": {
+      "DGS10": 4.16,
+      "DGS30": 4.73,
+      "BAMLC0A0CM": 76.0,
+      "BAMLC0A2CAA": 43.0,
+      "BAMLC0A3CA": 63.0,
+      "BAMLC0A4CBBB": 97.0,
+      "BAA10Y": 167.0
+    },
+    "2025-12-31": {
+      "DGS10": 4.18,
+      "DGS30": 4.84,
+      "BAMLC0A0CM": 79.0,
+      "BAMLC0A2CAA": 49.0,
+      "BAMLC0A3CA": 65.0,
+      "BAMLC0A4CBBB": 101.0,
+      "BAA10Y": 172.0
+    },
+    "2026-06-30": {
+      "DGS10": 4.44,
+      "DGS30": 4.91,
+      "BAMLC0A0CM": 76.0,
+      "BAMLC0A2CAA": 52.0,
+      "BAMLC0A3CA": 63.0,
+      "BAMLC0A4CBBB": 95.0,
+      "BAA10Y": 153.0
+    },
+    "2026-11-11": {
+      "DGS10": 4.98,
+      "DGS30": 5.35,
+      "BAMLC0A0CM": 90.0,
+      "BAMLC0A2CAA": 65.0,
+      "BAMLC0A3CA": 74.0,
+      "BAMLC0A4CBBB": 112.0,
+      "BAA10Y": 151.0
+    }
+  },
+  "durations_used": {
+    "5y": 4.43,
+    "10y": 7.7,
+    "30y": 13.83,
+    "40y": 14.84,
+    "pw": 8.9,
+    "index_pub": 6.4
+  },
+  "checks": {
+    "fcf_identity": true,
+    "maturity_sum_vs_principal_max_abs_gap_pct": 0.004845408398707891,
+    "no_duplicate_issuer_years": true,
+    "no_duplicate_tranches": true,
+    "all_dates_le_cutoff": true,
+    "spread_identity_max_abs_err_bp": 7.815970093361102e-14,
+    "usd_fixed_tranches_with_spread": "162/162"
+  }
+}

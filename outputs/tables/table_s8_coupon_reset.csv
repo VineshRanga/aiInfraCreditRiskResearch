@@ -1,0 +1,6 @@
+ticker,maturity_window,maturing_notes_observed_usd_bn,pw_coupon_maturing_pct,latest_8_12y_reoffer_yield_pct,latest_8_12y_issue_date,next3y_maturities_10k_usd_bn,implied_avg_cost_of_debt_pct,maturing_coupon_source,coupon_reset_bp
+AMZN,2027-2029,10.5,3.1488095238095237,5.341,2026-07-08,16.336,2.4736990185748096,Verified 2020-24 registered offerings,219.21904761904764
+GOOGL,2027-2029,1.0,0.8,5.52,2026-08-07,5.676,2.4128328822998784,Verified 2020-24 registered offerings,472.0
+META,2027-2029,2.5,4.48,6.552,2026-11-05,4.25,3.085714285714286,Verified 2020-24 registered offerings,207.19999999999993
+MSFT,2027-2029,0.0,,5.595,2026-11-02,11.251,7.809736121544016,Verified 2020-24 registered offerings,
+ORCL,2027-2029,10.5,3.5428571428571427,8.015,2026-11-04,22.855,4.07222129139839,ORCL FY2026 10-K note-level XBRL,447.2142857142858

@@ -1,0 +1,13 @@
+duration_profile,scenario,rate_component,spread_component,total_first_order
+"10y new issue, median D=7.7 (A)",UST +100bp,-0.0769863557731945,-0.0,-0.0769863557731945
+"10y new issue, median D=7.7 (A)",Spread +50bp,-0.0,-0.03849317788659725,-0.03849317788659725
+"10y new issue, median D=7.7 (A)",Spread +100bp,-0.0,-0.0769863557731945,-0.0769863557731945
+"10y new issue, median D=7.7 (A)",UST +100bp & spread +100bp,-0.0769863557731945,-0.0769863557731945,-0.153972711546389
+"30y new issue, median D=13.8 (A)",UST +100bp,-0.1383028352768485,-0.0,-0.1383028352768485
+"30y new issue, median D=13.8 (A)",Spread +50bp,-0.0,-0.06915141763842425,-0.06915141763842425
+"30y new issue, median D=13.8 (A)",Spread +100bp,-0.0,-0.1383028352768485,-0.1383028352768485
+"30y new issue, median D=13.8 (A)",UST +100bp & spread +100bp,-0.1383028352768485,-0.1383028352768485,-0.276605670553697
+"2025–26 five-issuer USD issuance, principal-wtd D=8.9 (A)",UST +100bp,-0.08897158724725829,-0.0,-0.08897158724725829
+"2025–26 five-issuer USD issuance, principal-wtd D=8.9 (A)",Spread +50bp,-0.0,-0.044485793623629144,-0.044485793623629144
+"2025–26 five-issuer USD issuance, principal-wtd D=8.9 (A)",Spread +100bp,-0.0,-0.08897158724725829,-0.08897158724725829
+"2025–26 five-issuer USD issuance, principal-wtd D=8.9 (A)",UST +100bp & spread +100bp,-0.08897158724725829,-0.08897158724725829,-0.17794317449451658

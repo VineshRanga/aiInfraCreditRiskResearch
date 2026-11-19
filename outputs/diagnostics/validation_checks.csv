@@ -1,0 +1,8 @@
+check,result
+fcf_identity,True
+maturity_sum_vs_principal_max_abs_gap_pct,0.004845408398707891
+no_duplicate_issuer_years,True
+no_duplicate_tranches,True
+all_dates_le_cutoff,True
+spread_identity_max_abs_err_bp,7.815970093361102e-14
+usd_fixed_tranches_with_spread,162/162

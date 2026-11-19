@@ -1,0 +1,7 @@
+period,five_issuer_usd_registered_bn,denominator_bn,denominator,share_of_denominator,sifma_stat_id
+FY2023,13.75,1503.5,SIFMA total US corporate issuance (all types),0.009145327569005653,sifma_corp_iss_2023
+FY2024,16.75,1968.9,SIFMA total US corporate issuance (all types),0.008507288333587281,sifma_corp_iss_2024
+FY2025,93.25,2216.3,SIFMA total US corporate issuance (all types),0.04207462888598114,sifma_corp_iss_2025
+2026 Jan-Sep,157.0,2195.1,SIFMA total US corporate issuance (all types),0.07152293745159674,sifma_corp_iss_2026q1q3
+2026 Jan-Oct,157.0,2342.6,SIFMA total US corporate issuance (all types),0.06701955092632118,sifma_corp_iss_2026ytd_oct
+3Q26 (IG-only denominator),50.0,482.6528,SIFMA 3Q26 total × SIFMA 3Q26 IG share,0.10359413640612879,sifma_corp_iss_3q26 × sifma_corp_ig_share_3q26
